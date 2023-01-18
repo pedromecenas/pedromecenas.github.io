@@ -1,0 +1,60 @@
+
+
+img {
+  width: 250px;
+  left: 30%;
+  position: relative;
+  top: 10px;
+  bottom: 30px;
+}
+
+.profile {
+  width: 30%;
+  height: 50%;
+  left: 36%;
+  position: relative;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 10px 4px 30px black;
+}
+
+body {
+  background: rgb(63, 94, 251);
+  background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+  font-family: 'Source Code Pro', monospace;
+}
+
+ol {
+    position: relative;
+    left: 20%;
+}
+
+a {
+    position: relative;
+    left: 20%;
+}
+
+h4 a {
+    position: relative;
+    left: 1%;
+}
+
+h4 {
+    position: relative;
+    left: 55%;
+}
+
+.nome {
+    position: relative;
+    left: 23%;
+}
+
+.descricao {
+    position: relative;
+    left: 40px;
+}
+
